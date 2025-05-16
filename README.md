@@ -8,7 +8,7 @@
 
 <h2>📝 Cybersecurity Certifications</h2>
 
-- [Cisco Cybersecurity Essentials](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Cisco Cybersecurity Essentials](https://www.credly.com/badges/0ddf31b0-77d1-47aa-b8a5-f6428587e9b9)
 
 
 <h2> 🤳 Connect with me:</h2>
