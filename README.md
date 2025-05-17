@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Simulating Secure Network Access via SSH | Packet Tracer Project</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Cisco Packet Tracer](https://github.com/AbdulbaaryKolapo/ssh-remote-access-packet-tracer)
 
 
 <h2>📝 Cybersecurity Certifications</h2>
