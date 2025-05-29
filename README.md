@@ -4,6 +4,8 @@
 
 - <b>Simulating Secure Network Access via SSH | Packet Tracer Project</b>
   - [Cisco Packet Tracer](https://github.com/AbdulbaaryKolapo/ssh-remote-access-packet-tracer)
+- <b>Router on a Stick | Packet Tracer Project</b>
+  - [Cisco Packet Tracer](https://github.com/AbdulbaaryKolapo/vlan-inter-routing)
 
 
 <h2>📝 Cybersecurity Certifications</h2>
